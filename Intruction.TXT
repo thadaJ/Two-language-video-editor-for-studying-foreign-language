@@ -1,8 +1,0 @@
-
-1) Add a first language (e.g. Chinese, Thai, etc) mp4  video.
-2) Add a second language (English) mp4 video
-3) Add subtitle
-4) Click run
-5) Wait until the process is done
-6) Open the folder '' to see the output video
-7) Play and enjoy the video 
