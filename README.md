@@ -6,7 +6,7 @@ Two-language video editor that break videos into short parts and put them togeth
  2. Add a first language (e.g. Chinese, Thai, etc) mp4  video
  3. Add a second language (English) mp4 video
  4. Add subtitle
- 5. Click run
+ 5. Click 'Convert'
  6. Wait until the process is done
  7. Open the folder '' to see the output video
  8. Play and enjoy the video in the output folder '.\Video2Languages\output_video\'
