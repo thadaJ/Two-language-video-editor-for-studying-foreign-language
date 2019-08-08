@@ -21,4 +21,4 @@ if you think this program is beneficial for you and would like to donate to supp
 [![paypal](https://www.paypalobjects.com/en_GB/TH/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q22NBYPTW9DZ4&source=url)
 
 Or donate me via Alipay.
-![](./Pictures/AlipayQR.jpg =250x)
+![](./Pictures/AlipayQR.jpg width=250)
