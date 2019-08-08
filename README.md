@@ -1,7 +1,7 @@
 
 Two-language video editor that break videos into short parts and put them together in the way that 2 languages are played alternately.
 
-![](GUI.JPG)
+![](./Pictures/GUI.JPG)
 
 ### Steps:
 
@@ -19,3 +19,6 @@ Two-language video editor that break videos into short parts and put them togeth
 if you think this program is beneficial for you and would like to donate to support my work, please click the following button.
 
 [![paypal](https://www.paypalobjects.com/en_GB/TH/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q22NBYPTW9DZ4&source=url)
+
+Or donate me via Alipay.
+![](./Pictures/AlipayQR.jpg)
