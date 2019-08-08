@@ -1,5 +1,7 @@
 Two-language video editor that break videos into short parts and put them together in the way that 2 languages are played alternately.
 
+![]( GUI.jpg)
+
 ### Steps:
 
  1. Open the application '.\Video2Languages\Video2Languages.exe'
