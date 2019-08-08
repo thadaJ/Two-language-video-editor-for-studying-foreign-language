@@ -22,3 +22,4 @@ if you think this program is beneficial for you and would like to donate to supp
 
 Or donate me via Alipay.
 ![](./Pictures/AlipayQR.jpg){:height="50%" width="50%"}
+<img src=./Pictures/AlipayQR.jpg width="100" height="100">
